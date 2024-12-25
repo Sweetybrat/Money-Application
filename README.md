@@ -12,3 +12,4 @@ Key features included:
 
 The project utilized Figma’s component creation, auto-layout, and prototyping tools to deliver a fully interactive design. It demonstrated effective teamwork and problem-solving skills, alongside a strong focus on user-centric design principles.
 
+https://www.figma.com/design/mzi6kb6DQptIbUQLjIoXXo/Money-Application?node-id=0-1&p=f&t=BkwBVQakLO9zjziJ-0
